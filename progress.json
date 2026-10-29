@@ -1,14 +1,14 @@
 {
   "repository_name": "dsa-2026-W44",
   "total_target": 112,
-  "total_solved": 5,
-  "completion_percentage": 4.5,
+  "total_solved": 6,
+  "completion_percentage": 5.4,
   "is_completed": false,
   "current_pointer": {
     "day": 1,
-    "level": 3,
-    "question": 2,
-    "folder_path": "day-01/level-03/question-02/"
+    "level": 4,
+    "question": 1,
+    "folder_path": "day-01/level-04/question-01/"
   },
   "solved_solutions": [
     {
@@ -59,8 +59,18 @@
       "title": "Two Sum II - Input Array Is Sorted",
       "difficulty": "Easy",
       "topic": "Arrays & Hashing",
+      "commit_sha": "58236bdb584cc74a72e21d0d3adf35735f5dadc5"
+    },
+    {
+      "day": 1,
+      "level": 3,
+      "question": 2,
+      "folder": "day-01/level-03/question-02/",
+      "title": "Partition Array by Parity",
+      "difficulty": "Easy",
+      "topic": "Arrays & Hashing",
       "commit_sha": ""
     }
   ],
-  "last_updated": "2026-10-29T07:45:24.191573+00:00"
+  "last_updated": "2026-10-29T08:37:20.168016+00:00"
 }
