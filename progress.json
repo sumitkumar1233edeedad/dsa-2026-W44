@@ -1,14 +1,14 @@
 {
   "repository_name": "dsa-2026-W44",
   "total_target": 112,
-  "total_solved": 1,
-  "completion_percentage": 0.9,
+  "total_solved": 2,
+  "completion_percentage": 1.8,
   "is_completed": false,
   "current_pointer": {
     "day": 1,
-    "level": 1,
-    "question": 2,
-    "folder_path": "day-01/level-01/question-02/"
+    "level": 2,
+    "question": 1,
+    "folder_path": "day-01/level-02/question-01/"
   },
   "solved_solutions": [
     {
@@ -19,8 +19,18 @@
       "title": "Find Target Index in Array",
       "difficulty": "Easy",
       "topic": "Arrays & Hashing",
+      "commit_sha": "6b2b9b862dbeaa486f29eba9e89d2c627ec3bc9a"
+    },
+    {
+      "day": 1,
+      "level": 1,
+      "question": 2,
+      "folder": "day-01/level-01/question-02/",
+      "title": "Remove Duplicates from Sorted Array",
+      "difficulty": "Easy",
+      "topic": "Arrays & Hashing",
       "commit_sha": ""
     }
   ],
-  "last_updated": "2026-10-29T06:26:25.173855+00:00"
+  "last_updated": "2026-10-29T06:45:30.605431+00:00"
 }
