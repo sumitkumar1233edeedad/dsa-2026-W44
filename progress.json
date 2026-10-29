@@ -1,14 +1,14 @@
 {
   "repository_name": "dsa-2026-W44",
   "total_target": 112,
-  "total_solved": 2,
-  "completion_percentage": 1.8,
+  "total_solved": 3,
+  "completion_percentage": 2.7,
   "is_completed": false,
   "current_pointer": {
     "day": 1,
     "level": 2,
-    "question": 1,
-    "folder_path": "day-01/level-02/question-01/"
+    "question": 2,
+    "folder_path": "day-01/level-02/question-02/"
   },
   "solved_solutions": [
     {
@@ -29,8 +29,18 @@
       "title": "Remove Duplicates from Sorted Array",
       "difficulty": "Easy",
       "topic": "Arrays & Hashing",
+      "commit_sha": "40c0bdb43bf84f33ae40bab3d8d85a68a91a97e2"
+    },
+    {
+      "day": 1,
+      "level": 2,
+      "question": 1,
+      "folder": "day-01/level-02/question-01/",
+      "title": "First Duplicate Value",
+      "difficulty": "Easy",
+      "topic": "Arrays & Hashing",
       "commit_sha": ""
     }
   ],
-  "last_updated": "2026-10-29T06:45:30.605431+00:00"
+  "last_updated": "2026-10-29T07:04:17.188261+00:00"
 }
