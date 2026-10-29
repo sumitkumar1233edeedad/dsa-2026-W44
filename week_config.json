@@ -1,19 +1,63 @@
 {
-  "repo_name": "dsa-2026-W44",
-  "goal_id": 5,
+  "schema_version": "2.0.0",
+  "repository_name": "dsa-2026-W44",
+  "year": 2026,
+  "iso_week": 44,
+  "user": "test",
   "daily_target": 16,
-  "total_target": 112,
+  "fixed_levels_per_day": 8,
   "questions_per_level": 2,
-  "topic_preferences": [
-    "Arrays & Hashing",
-    "Two Pointers"
-  ],
-  "difficulty_preferences": {
-    "Easy": 40,
-    "Medium": 50,
-    "Hard": 10
+  "total_days": 7,
+  "total_weekly_questions": 112,
+  "level_hierarchy": {
+    "level-01": {
+      "difficulty": "Easy",
+      "category": "Arrays & Strings",
+      "focus": "Fundamentals, String Parsing, Two Pointers",
+      "questions_count": 2
+    },
+    "level-02": {
+      "difficulty": "Easy",
+      "category": "Hash Tables & Math",
+      "focus": "Hash Sets, Counting, Basic Math & Bitwise",
+      "questions_count": 2
+    },
+    "level-03": {
+      "difficulty": "Medium",
+      "category": "Two Pointers & Sliding Window",
+      "focus": "Subarrays, Window Shrinking, Intervals",
+      "questions_count": 2
+    },
+    "level-04": {
+      "difficulty": "Medium",
+      "category": "Binary Search & Stacks",
+      "focus": "Sorted Arrays, Monotonic Stacks, Queues",
+      "questions_count": 2
+    },
+    "level-05": {
+      "difficulty": "Medium",
+      "category": "Linked Lists & Recursion",
+      "focus": "Pointers, Cycle Detection, Divide & Conquer",
+      "questions_count": 2
+    },
+    "level-06": {
+      "difficulty": "Medium",
+      "category": "Binary Trees & BST",
+      "focus": "DFS, BFS, Tree Traversals, Path Sums",
+      "questions_count": 2
+    },
+    "level-07": {
+      "difficulty": "Hard",
+      "category": "Dynamic Programming & Greedy",
+      "focus": "1D/2D DP, Memoization, Subsequences",
+      "questions_count": 2
+    },
+    "level-08": {
+      "difficulty": "Hard",
+      "category": "Graphs & Backtracking",
+      "focus": "Graph Traversal, Permutations, Topological Sort",
+      "questions_count": 2
+    }
   },
-  "daily_window_hours": 8,
-  "user_timezone": "Asia/Kolkata",
-  "created_at": "2026-10-29T06:21:40.994199+00:00"
+  "created_at": "2026-10-29T06:21:33.958312+00:00"
 }

@@ -1,29 +1,44 @@
-# 🚀 Weekly DSA Sprint — `dsa-2026-W44`
-> **Automated Daily DSA Sprint** · Target: **112 Solved Problems** (16 / day) · Timezone: `Asia/Kolkata`
+# ⚡ dsa-2026-W44
+
+> Automated Daily Data Structures & Algorithms (DSA) Practice Repository.
+> Generated and verified using **AutoDailySolver** with LangGraph Multi-Agent Architecture & Sandbox Validation.
+
+## 📊 Weekly Progress Dashboard
+
+- **Weekly Target:** `1 / 112` problems solved (0.9%)
+- **Structure:** `7 Days` × `8 Levels/day` × `2 Questions/level` = `16 Questions/day`
+- **Verified by Sandbox:** 100% of committed code passed isolated unit testing before pushing.
+
+```text
+Progress: [                    ] 0.9%
+```
+
+## 🗓️ 7-Day Curriculum & Daily Themes
+
+| Day | Focus Topic | Daily Theme | Target / Day |
+| :---: | :--- | :--- | :---: |
+| Day 01 | **Arrays & Hashing** | Linear Traversals & Direct Indexing | 16 problems |
+| Day 02 | **Two Pointers** | Same Direction & Fast-Slow Pointers | 16 problems |
+| Day 03 | **Arrays & Hashing** | Two Pointers & In-Place Manipulations | 16 problems |
+| Day 04 | **Two Pointers** | Sorted Array Pair Searches | 16 problems |
+| Day 05 | **Arrays & Hashing** | Prefix Sums & Difference Arrays | 16 problems |
+| Day 06 | **Two Pointers** | String Palindromes & Subsequences | 16 problems |
+| Day 07 | **Arrays & Hashing** | 2D Matrices & Advanced Optimization | 16 problems |
+
+## 🧭 8-Level Mastery Syllabus & Progressive Problem Matrix
+
+| Day & Topic | L01 | L02 | L03 | L04 | L05 | L06 | L07 | L08 |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **Day 01**<br><sub>Arrays & Hashing</sub> | [1](day-01/level-01/question-01/question.md) · | · · | · · | · · | · · | · · | · · | · · |
+| **Day 02**<br><sub>Two Pointers</sub> | · · | · · | · · | · · | · · | · · | · · | · · |
+| **Day 03**<br><sub>Arrays & Hashing</sub> | · · | · · | · · | · · | · · | · · | · · | · · |
+| **Day 04**<br><sub>Two Pointers</sub> | · · | · · | · · | · · | · · | · · | · · | · · |
+| **Day 05**<br><sub>Arrays & Hashing</sub> | · · | · · | · · | · · | · · | · · | · · | · · |
+| **Day 06**<br><sub>Two Pointers</sub> | · · | · · | · · | · · | · · | · · | · · | · · |
+| **Day 07**<br><sub>Arrays & Hashing</sub> | · · | · · | · · | · · | · · | · · | · · | · · |
 
 ---
-
-## 📅 7-Day Curriculum Schedule
-| Day | Topic Category | Strategic Focus | Daily Quota |
-|:---:|:---|:---|:---:|
-| Day 01 | **Arrays & Hashing** | Linear Traversals & Direct Indexing | 16 Qs |
-| Day 02 | **Two Pointers** | Same Direction & Fast-Slow Pointers | 16 Qs |
-| Day 03 | **Arrays & Hashing** | Two Pointers & In-Place Manipulations | 16 Qs |
-| Day 04 | **Two Pointers** | Sorted Array Pair Searches | 16 Qs |
-| Day 05 | **Arrays & Hashing** | Prefix Sums & Difference Arrays | 16 Qs |
-| Day 06 | **Two Pointers** | String Palindromes & Subsequences | 16 Qs |
-| Day 07 | **Arrays & Hashing** | 2D Matrices & Advanced Optimization | 16 Qs |
-
----
-
-## 🏗️ Progressive Structure (Table of 8)
-- **7 Days** of dedicated topic-focused practice.
-- **8 Fixed Levels per Day** (`level-01` Fundamentals $\to$ `level-08` Mastery).
-- **2 Question(s) per Level** (16 problems/day).
-- Every question contains:
-  - `question.md` — Full problem statement, constraints, and complexity targets.
-  - `solution.py` — Optimal Python solution with algorithmic explanation.
-  - `test_solution.py` — Comprehensive unit test suite verified in an isolated AST sandbox.
-
----
-*Generated and managed autonomously by [AutoDailySolver](https://github.com/sumitkumar1233edeedad/auto-daily-solver).*
+### 🛡️ Code Quality & Verification
+- Every problem includes `question.md`, `solution.py`, and `test_solution.py`.
+- Tests are executed and validated inside an AST-checked, sandboxed execution environment before any git commit is performed.
+- Powered by [AutoDailySolver](https://github.com/sumitkumar1233edeedad/auto-daily-solver).
