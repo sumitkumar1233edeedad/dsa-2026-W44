@@ -1,14 +1,14 @@
 {
   "repository_name": "dsa-2026-W44",
   "total_target": 112,
-  "total_solved": 4,
-  "completion_percentage": 3.6,
+  "total_solved": 5,
+  "completion_percentage": 4.5,
   "is_completed": false,
   "current_pointer": {
     "day": 1,
     "level": 3,
-    "question": 1,
-    "folder_path": "day-01/level-03/question-01/"
+    "question": 2,
+    "folder_path": "day-01/level-03/question-02/"
   },
   "solved_solutions": [
     {
@@ -49,8 +49,18 @@
       "title": "Contains Nearby Duplicate",
       "difficulty": "Easy",
       "topic": "Arrays & Hashing",
+      "commit_sha": "d0bffb1566f7c46f1028a40a75dab4e06cb020ec"
+    },
+    {
+      "day": 1,
+      "level": 3,
+      "question": 1,
+      "folder": "day-01/level-03/question-01/",
+      "title": "Two Sum II - Input Array Is Sorted",
+      "difficulty": "Easy",
+      "topic": "Arrays & Hashing",
       "commit_sha": ""
     }
   ],
-  "last_updated": "2026-10-29T07:23:16.495969+00:00"
+  "last_updated": "2026-10-29T07:45:24.191573+00:00"
 }
