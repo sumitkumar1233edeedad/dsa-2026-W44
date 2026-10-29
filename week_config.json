@@ -1,0 +1,19 @@
+{
+  "repo_name": "dsa-2026-W44",
+  "goal_id": 5,
+  "daily_target": 16,
+  "total_target": 112,
+  "questions_per_level": 2,
+  "topic_preferences": [
+    "Arrays & Hashing",
+    "Two Pointers"
+  ],
+  "difficulty_preferences": {
+    "Easy": 40,
+    "Medium": 50,
+    "Hard": 10
+  },
+  "daily_window_hours": 8,
+  "user_timezone": "Asia/Kolkata",
+  "created_at": "2026-10-29T06:21:40.994199+00:00"
+}
