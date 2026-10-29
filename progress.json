@@ -1,14 +1,14 @@
 {
   "repository_name": "dsa-2026-W44",
   "total_target": 112,
-  "total_solved": 6,
-  "completion_percentage": 5.4,
+  "total_solved": 7,
+  "completion_percentage": 6.2,
   "is_completed": false,
   "current_pointer": {
     "day": 1,
     "level": 4,
-    "question": 1,
-    "folder_path": "day-01/level-04/question-01/"
+    "question": 2,
+    "folder_path": "day-01/level-04/question-02/"
   },
   "solved_solutions": [
     {
@@ -69,8 +69,18 @@
       "title": "Partition Array by Parity",
       "difficulty": "Easy",
       "topic": "Arrays & Hashing",
+      "commit_sha": "17f155133f4d7a3f10b6bafcce6cd0e226f10dd6"
+    },
+    {
+      "day": 1,
+      "level": 4,
+      "question": 1,
+      "folder": "day-01/level-04/question-01/",
+      "title": "Minimum Size Subarray Sum",
+      "difficulty": "Medium",
+      "topic": "Arrays & Hashing",
       "commit_sha": ""
     }
   ],
-  "last_updated": "2026-10-29T08:37:20.168016+00:00"
+  "last_updated": "2026-10-29T08:55:21.930390+00:00"
 }
