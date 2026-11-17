@@ -1,14 +1,14 @@
 {
   "repository_name": "dsa-2026-W44",
   "total_target": 112,
-  "total_solved": 14,
-  "completion_percentage": 12.5,
+  "total_solved": 15,
+  "completion_percentage": 13.4,
   "is_completed": false,
   "current_pointer": {
     "day": 1,
     "level": 8,
-    "question": 1,
-    "folder_path": "day-01/level-08/question-01/"
+    "question": 2,
+    "folder_path": "day-01/level-08/question-02/"
   },
   "solved_solutions": [
     {
@@ -149,8 +149,18 @@
       "title": "Day 01 Level 07 Q02: 2D Matrix Traversal (Twist-2)",
       "difficulty": "Medium",
       "topic": "Arrays & Hashing",
+      "commit_sha": "cb0ba63e404f802b57fe8f494edaf8629768b21f"
+    },
+    {
+      "day": 1,
+      "level": 8,
+      "question": 1,
+      "folder": "day-01/level-08/question-01/",
+      "title": "Day 01 Level 08 Q01: Intervals & Extremes (Core)",
+      "difficulty": "Hard",
+      "topic": "Arrays & Hashing",
       "commit_sha": ""
     }
   ],
-  "last_updated": "2026-10-29T11:04:48.827211+00:00"
+  "last_updated": "2026-11-17T03:54:15.277341+00:00"
 }

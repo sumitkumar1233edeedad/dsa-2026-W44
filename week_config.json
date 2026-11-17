@@ -2,7 +2,7 @@
   "schema_version": "2.0.0",
   "repository_name": "dsa-2026-W44",
   "year": 2026,
-  "iso_week": 44,
+  "iso_week": 47,
   "user": "test",
   "daily_target": 16,
   "fixed_levels_per_day": 8,
