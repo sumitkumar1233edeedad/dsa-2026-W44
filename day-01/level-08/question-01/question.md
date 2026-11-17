@@ -1,4 +1,4 @@
-# Day 01 Level 08 Q01: Intervals & Extremes (Core)
+# Day 01 Level 08 Q01: Intervals & Extremes Optimization
 
 - **Day:** `Day 01`
 - **Level:** `Level 08`
@@ -11,7 +11,7 @@
 
 ## 📝 Problem Statement
 
-### Day 01 Level 08 Q01: Intervals & Extremes (Core)
+### Day 01 Level 08 Q01: Intervals & Extremes Optimization
 
 **Topic:** Arrays & Hashing | **Difficulty:** Hard
 **Target Pattern:** Intervals & Extremes
@@ -44,7 +44,7 @@ This problem focuses on Intervals & Extremes - Part 1 (Core Mechanics): Interval
 ```python
 def solve_d01_l08_q01(nums: list[int]) -> int:
     """
-    Solves Day 01 Level 08 Q01: Intervals & Extremes (Core) targeting Intervals & Extremes.
+    Solves Day 01 Level 08 Q01: Intervals & Extremes Optimization targeting Intervals & Extremes.
     """
     pass
 

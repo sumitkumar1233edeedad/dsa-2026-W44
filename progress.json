@@ -156,11 +156,11 @@
       "level": 8,
       "question": 1,
       "folder": "day-01/level-08/question-01/",
-      "title": "Day 01 Level 08 Q01: Intervals & Extremes (Core)",
+      "title": "Day 01 Level 08 Q01: Intervals & Extremes Optimization",
       "difficulty": "Hard",
       "topic": "Arrays & Hashing",
-      "commit_sha": "dd9a6782bf61bfed8b8c9d5e9f766b8bc96a548c"
+      "commit_sha": ""
     }
   ],
-  "last_updated": "2026-11-17T03:59:07.981638+00:00"
+  "last_updated": "2026-11-17T04:47:49.824011+00:00"
 }
